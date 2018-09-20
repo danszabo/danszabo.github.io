@@ -1,5 +1,6 @@
 # danszabo.github.io
 
-Test website for Dan Szabo
+This is a sandbox for my stupid web tricks atm.
 
-If all goes well I will move my site here. :-)
+May move my site files here on a more permanent basis and host either here or on Netlify.
+
